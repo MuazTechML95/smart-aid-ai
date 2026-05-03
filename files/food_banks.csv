@@ -1,0 +1,7 @@
+id,name,city,address,phone,services,hours,latitude,longitude,coordinates_available,verified,last_updated
+FO-77110,Saylani Welfare Trust,Karachi,"Saylani House, M.A Jinnah Road",021-32462351,"Daily langar, ration packages",Mon-Sun 08:00-20:00,24.8607,67.0011,True,True,2026-05-02
+FO-95951,Edhi Foundation Food Center,Lahore,"Edhi Complex, Allama Iqbal Road",042-37656565,"Free meals, emergency rations",Mon-Sun 07:00-21:00,31.5204,74.3587,True,True,2026-05-02
+FO-17417,Khidmat-E-Khalq Foundation,Islamabad,"G-7 Markaz, Blue Area",051-2876543,"Food packages, cooked meals",Mon-Sat 09:00-18:00,33.7294,73.0931,True,True,2026-05-02
+FO-36497,Rizq Foundation,Lahore,"Dha Phase 5, Lahore",0311-7477497,Rescued food redistribution,Mon-Sun 10:00-22:00,31.4697,74.4024,True,True,2026-05-02
+FO-45292,Robin Hood Army Lahore,Lahore,"Volunteers-Based, City-Wide",N/A,Weekend surplus food distribution,Sat-Sun 18:00-21:00,31.5204,74.3587,True,True,2026-05-02
+FO-69149,Al-Mustafa Welfare Trust,Multan,"Hussain Agahi, Multan",061-4510600,"Daily meals, ramzan packages",Mon-Sun 08:00-20:00,30.1575,71.5249,True,True,2026-05-02

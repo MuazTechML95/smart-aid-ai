@@ -1,0 +1,8 @@
+id,name,city,address,phone,specialties,free_services,hours,latitude,longitude,coordinates_available,verified,last_updated
+CL-38134,Akhuwat Health Services,Lahore,"Township, Lahore",042-35168498,"General OPD, maternal health",True,Mon-Sat 08:00-14:00,31.4697,74.2728,True,True,2026-05-02
+CL-72760,Hope Free Clinic,Karachi,"Orangi Town, Karachi",021-36659991,"Pediatrics, gynecology, general",True,Mon-Fri 09:00-17:00,24.9296,66.975,True,True,2026-05-02
+CL-89309,Shaukat Khanum Opds,Lahore,"7A Block R-3, Johar Town",042-35945100,"Oncology, free for deserving",False,Mon-Sat 08:00-16:00,31.4504,74.2703,True,True,2026-05-02
+CL-16440,Lrbt Eye Hospital,Lahore,"Bhati Gate, Lahore",042-37673588,"Ophthalmology, free surgery",True,Mon-Fri 08:00-15:00,31.5788,74.309,True,True,2026-05-02
+CL-11020,Umang Mental Health,Lahore,"Gulberg Iii, Lahore",0311-7786264,"Mental health, counseling",False,Mon-Sat 10:00-18:00,31.5085,74.3338,True,True,2026-05-02
+CL-49539,Indus Hospital,Karachi,"Korangi Crossing, Karachi",021-35112709,"Full hospital, 100% free",True,Mon-Sun 24hrs,24.8266,67.1391,True,True,2026-05-02
+CL-72868,Free Clinic,Unknown,Unknown,0300-0000000,General OPD,True,Not Specified,,,False,False,2026-05-02
