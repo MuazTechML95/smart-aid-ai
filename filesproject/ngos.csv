@@ -1,0 +1,6 @@
+id,name,city,address,phone,focus_areas,website,latitude,longitude,coordinates_available,verified,last_updated
+NG-99886,Edhi Foundation,National,"Edhi Village, Karachi",021-32620815,"Emergency relief, healthcare, orphans, elderly",https://edhi.org,24.8874,67.0491,True,True,2026-05-02
+NG-94014,Saylani Welfare International Trust,National,Karachi,021-32462351,"Food, education, skill development",https://saylaniwelfare.com,24.8607,67.0011,True,True,2026-05-02
+NG-82444,Akhuwat Foundation,National,"Township, Lahore",042-35168498,"Microfinance, healthcare, education",https://akhuwat.org.pk,31.4697,74.2728,True,True,2026-05-02
+NG-55386,Rizq Foundation,National,Lahore,0311-7477497,"Food rescue, surplus redistribution",https://rizqapp.com,31.4697,74.3587,True,True,2026-05-02
+NG-08813,Orangi Pilot Project,Karachi,"Orangi Town, Karachi",021-36655926,"Sanitation, housing, health, education",https://oppinstitutions.org,24.9296,66.975,True,True,2026-05-02
