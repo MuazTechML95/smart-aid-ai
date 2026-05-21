@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+streamlit
+sentence-transformers
+faiss-cpu
+numpy
+torch
+transformers>=4.40.0
+accelerate
+bitsandbytes
+huggingface_hub
+=======
+streamlit
+sentence-transformers
+faiss-cpu
+numpy
+>>>>>>> 7e637ab09a1f10962e6166d2fd28228bc8c36641
